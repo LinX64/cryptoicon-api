@@ -5,7 +5,7 @@ const IndexPage = () => {
         <a id="Crypto_Icon_API_0"></a>Crypto Icon API
       </h1>
       <p className="has-line-data">
-        A public API hosted by <a href="https://tokentax.co">TokenTax</a> for
+        A public API hosted for
         cryptocurrency icons
       </p>
       <h3 className="code-line">
@@ -13,13 +13,13 @@ const IndexPage = () => {
       </h3>
       <ul>
         <li className="has-line-data">
-          <a href="https://cryptoicon-api.vercel.app/api/icon/btc">
-            https://cryptoicon-api.vercel.app/api/icon/btc
+          <a href="https://farisaziz12.github.io/cryptoicon-api/api/icon/btc">
+            https://farisaziz12.github.io/cryptoicon-api/api/icon/btc
           </a>
         </li>
         <li className="has-line-data">
-          <a href="https://cryptoicon-api.vercel.app/api/icon/yfi">
-            https://cryptoicon-api.vercel.app/api/icon/yfi
+          <a href="https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi">
+            https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi
           </a>
         </li>
       </ul>
@@ -27,9 +27,9 @@ const IndexPage = () => {
         <a id="Contribute_8"></a>Contribute
       </h3>
       <p className="has-line-data" data-line-end="11">
-        Add 128x128 transparent png images in a PR in our repo:{" "}
-        <a href="https://github.com/TokenTax/cryptoicon-api">
-          https://github.com/TokenTax/cryptoicon-api
+        Add 128x128 transparent png images in a PR in this repo:{" "}
+        <a href="https://github.com/farisaziz12/cryptoicon-api">
+          https://github.com/farisaziz12/cryptoicon-api
         </a>
       </p>
     </div>
