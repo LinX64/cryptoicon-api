@@ -1,6 +1,6 @@
 # Crypto Icon API
 
-A public API hosted by [TokenTax](https://tokentax.co) for cryptocurrency icons
+A public API hosted by for cryptocurrency icons
 
 ### Examples
 - [https://farisaziz12.github.io/cryptoicon-api/api/icon/btc](https://farisaziz12.github.io/cryptoicon-api/api/icon/btc)
