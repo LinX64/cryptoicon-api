@@ -13,13 +13,13 @@ const IndexPage = () => {
       </h3>
       <ul>
         <li className="has-line-data">
-          <a href="https://farisaziz12.github.io/cryptoicon-api/api/icon/btc">
-            https://farisaziz12.github.io/cryptoicon-api/api/icon/btc
+          <a href="https://farisaziz12.github.io/cryptoicon-api/icons/btc.png">
+            https://farisaziz12.github.io/cryptoicon-api/icons/btc.png
           </a>
         </li>
         <li className="has-line-data">
-          <a href="https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi">
-            https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi
+          <a href="https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png">
+            https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png
           </a>
         </li>
       </ul>

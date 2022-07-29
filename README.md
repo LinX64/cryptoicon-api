@@ -3,8 +3,8 @@
 A public API hosted by for cryptocurrency icons
 
 ### Examples
-- [https://farisaziz12.github.io/cryptoicon-api/api/icon/btc](https://farisaziz12.github.io/cryptoicon-api/api/icon/btc)
-- [https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi](https://farisaziz12.github.io/cryptoicon-api/api/icon/yfi)
+- [https://farisaziz12.github.io/cryptoicon-api/icons/btc.png](https://farisaziz12.github.io/cryptoicon-api/icons/btc.png)
+- [https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png](https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png)
 
 ### Contribute
 
