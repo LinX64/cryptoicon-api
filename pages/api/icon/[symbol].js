@@ -27,6 +27,6 @@ export default (req, res) => {
 
   readStream.on("error", (err) => {
     res.status(404);
-    res.send("error");
+    res.send("error: ", err);
   });
 };
