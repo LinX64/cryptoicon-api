@@ -13,13 +13,13 @@ const IndexPage = () => {
       </h3>
       <ul>
         <li className="has-line-data">
-          <a href="https://farisaziz12.github.io/cryptoicon-api/icons/btc.png">
-            https://farisaziz12.github.io/cryptoicon-api/icons/btc.png
+          <a href="https://linx64.github.io/cryptoicon-api/icons/btc.png">
+            https://linx64.github.io/cryptoicon-api/icons/btc.png
           </a>
         </li>
         <li className="has-line-data">
-          <a href="https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png">
-            https://farisaziz12.github.io/cryptoicon-api/icons/yfi.png
+          <a href="https://linx64.github.io/cryptoicon-api/icons/yfi.png">
+            https://linx64.github.io/cryptoicon-api/icons/yfi.png
           </a>
         </li>
       </ul>
@@ -28,8 +28,8 @@ const IndexPage = () => {
       </h3>
       <p className="has-line-data" data-line-end="11">
         Add 128x128 transparent png images in a PR in this repo:{" "}
-        <a href="https://github.com/farisaziz12/cryptoicon-api">
-          https://github.com/farisaziz12/cryptoicon-api
+        <a href="https://github.com/linx64/cryptoicon-api">
+          https://github.com/linx64/cryptoicon-api
         </a>
       </p>
     </div>
